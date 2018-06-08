@@ -1,0 +1,40 @@
+p{
+	font-family: 'helvetica';
+	font-size: 1.4em;
+}
+
+.row{
+	width: 90%;
+	margin: auto;
+	margin-top: 10%;
+}
+
+.card{
+	margin: none;
+	padding: none;
+}
+
+.col-sm-6{
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4,h5{
+	color: #32408f;
+	text-align: center;
+	font-family: 'Roboto';
+	font-size: 2.8em;
+}
+
+.fa:hover{
+	color: white;
+}
+
+.fixed-bottom{
+	padding-top: 0px; 
+}
+
+.white-space{
+	width: 90%;
+	margin: auto;
+}
